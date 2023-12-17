@@ -24,6 +24,14 @@ dependencies {
     implementation 'com.github.samanzamani:PersianDate:1.7.1'
 }
 ```
+if using Maven
+```groovy
+         <dependency>
+            <groupId>com.github.samanzamani</groupId>
+            <artifactId>PersianDate</artifactId>
+            <version>1.7.1</version>
+        </dependency>
+```
 # what's new
 
 ### version 1.7.1
